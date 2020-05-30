@@ -2,7 +2,7 @@
 
 Cadastro de livros em VUE JS. Projeto para estudo básico de VUE.
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Concluido :done:
 
 # Recursos para utilização
 
