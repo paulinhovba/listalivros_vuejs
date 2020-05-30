@@ -6,7 +6,7 @@ Cadastro de livros em VUE JS. Projeto para estudo básico de VUE.
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
-# Recursos para utilização
+# Recursos
 
 VUE JS
   
@@ -14,7 +14,7 @@ VUE JS
 
 ![image](https://user-images.githubusercontent.com/52004768/75903773-d42e7400-5e20-11ea-9c4e-a74f541a4093.png)
 
-# Recursos e tecnologias utilizadas
+# Tecnologias
 
 - [x] VUE JS
 
