@@ -1,27 +1,21 @@
-# listalivros_vuejs
-Projeto Lista Livros- Javascript Vue.JS.
+# Projeto Lista Livros - Javascript Vue.JS 
 
-==============
+Cadastro de livros em VUE JS. Projeto para estudo básico de VUE.
 
-O sistema [Lista Livros] é um estudo para aprendizado do framework Vue.JS.
+> Status do Projeto: Em desenvolvimento :warning:
 
-### Demonstração
+# Recursos para utilização
 
-
-### Exemplo de Uso
-
-
-### Instalação
-
-1. Faça o clone deste projeto com `https://github.com/paulinhovba/listalivros_vuejs.git`
-2. Faça o deploy para sua hospedagem favorita. 
-
-### Screenshot
+VUE JS
+  
+# Screenshots
 
 ![image](https://user-images.githubusercontent.com/52004768/75903773-d42e7400-5e20-11ea-9c4e-a74f541a4093.png)
 
-### Meta
+# Recursos e tecnologias utilizadas
 
-Paulinho Monteiro – [http://paulinhomonteiro.com/](http://paulinhomonteiro.com/) – falecompaulinhomonteiro@gmail.com
+- [x] VUE JS
 
-[https://github.com/paulinhovba](https://github.com/paulinhovba/)
+<hr />
+
+Made with too much ♥, by [Paulinho Monteiro] (http://www.paulinhomonteiro.com) - 2020.
